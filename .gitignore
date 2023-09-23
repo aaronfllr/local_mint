@@ -1,0 +1,38 @@
+### VisualStudioCode template
+.vscode
+# Local History for Visual Studio Code
+.history/
+
+### JetBrains template
+# User-specific stuff
+.idea
+
+### Linux template
+*~
+
+### Vim template
+# Swap
+[._]*.s[a-v][a-z]
+!*.svg  # comment out if you don't need vector files
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+# Session
+Session.vim
+Sessionx.vim
+# Temporary
+.netrwhist
+# Auto-generated tag files
+tags
+# Persistent undo
+[._]*.un~
+
+### macOS template
+# General
+.DS_Store
+# Icon must end with two \r
+Icon
+# Thumbnails
+._*
+
