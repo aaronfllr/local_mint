@@ -55,3 +55,15 @@ Contents of `/etc/apt/sources.list.d/google-chrome.list`
 # You may comment out this entry, but any other modifications may be lost.
 deb [arch=amd64] https://dl.google.com/linux/chrome/deb/ stable main
 ```
+
+## Discord
+
+Most hackers use Discord to communicate over their projects.
+The installation is similar to that of Google Chrome, but no PPT repository is added to the source list daemon.
+
+Download Discord package here: https://discord.com/
+
+Direct link: https://dl.discordapp.net/apps/linux/0.0.30/discord-0.0.30.deb
+
+![Discord](resources/img/discord-download.png "Discord Download")
+
