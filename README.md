@@ -18,7 +18,7 @@
 4. Configure your shell: [step 02 - the 'oh your shell'](step-02-shell.md)
 5. Useful Global Apps!: [step 03 - global apps](step-03-global-apps.md)
 
-**_From this point, each local user development tools are configured "as a user," including if only one user opted to be used._**
+**_From this point, each local-user development toolset is configured "as a user," including if only one user opted to be used._** _The actual development environment is encapsulated by a Linux user._
 
 ## Dev User Setup
 
