@@ -1,5 +1,7 @@
 # Hacker's Kotlin Local on Mint
 
+Version: dm: LightDM Distro: Linux Mint 21.2 Victoria base: Ubuntu 22.04 jammy
+
 > This serves as an exposé and example of the typical [competent local](https://github.com/readme/guides/developer-onboarding "Optimize local dev environments for better onboarding") setup for [the modern 12-factor-app](https://12factor.net/ "The Twelve-Factor App") development workflow within [**fluent-development-style**](https://martinfowler.com/articles/agileFluency.html "Fluent Development Style") of [Extreme Programming (XP).](https://en.wikipedia.org/wiki/Extreme_programming "Extreme Programming") _This is how the world's most competent and performant software engineers, "hackers," work to disrupt markets, generate value and profit, and make the world a better place._ - and so can you!
 
 ## Basic Principles
